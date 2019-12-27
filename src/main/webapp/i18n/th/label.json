@@ -1,0 +1,24 @@
+{
+  "bugTrackerJHipsterApp": {
+    "label": {
+      "home": {
+        "title": "Labels",
+        "createLabel": "สร้าง Label",
+        "createOrEditLabel": "สร้างหรือแก้ไข Label",
+        "search": "ค้นหา Label",
+        "notFound": "No Labels found"
+      },
+      "created": "Label ถูกสร้างด้วย {{ param }}",
+      "updated": "Label ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Label ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Label {{ id }}?"
+      },
+      "detail": {
+        "title": "Label"
+      },
+      "label": "Label",
+      "ticket": "Ticket"
+    }
+  }
+}

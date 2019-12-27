@@ -1,0 +1,23 @@
+{
+  "bugTrackerJHipsterApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "createLabel": "สร้าง Project",
+        "createOrEditLabel": "สร้างหรือแก้ไข Project",
+        "search": "ค้นหา Project",
+        "notFound": "No Projects found"
+      },
+      "created": "Project ถูกสร้างด้วย {{ param }}",
+      "updated": "Project ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Project ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "name": "Name"
+    }
+  }
+}

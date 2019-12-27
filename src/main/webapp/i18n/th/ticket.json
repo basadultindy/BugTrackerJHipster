@@ -1,0 +1,28 @@
+{
+  "bugTrackerJHipsterApp": {
+    "ticket": {
+      "home": {
+        "title": "Tickets",
+        "createLabel": "สร้าง Ticket",
+        "createOrEditLabel": "สร้างหรือแก้ไข Ticket",
+        "search": "ค้นหา Ticket",
+        "notFound": "No Tickets found"
+      },
+      "created": "Ticket ถูกสร้างด้วย {{ param }}",
+      "updated": "Ticket ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Ticket ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Ticket {{ id }}?"
+      },
+      "detail": {
+        "title": "Ticket"
+      },
+      "title": "Title",
+      "description": "Description",
+      "dueDate": "Due Date",
+      "done": "Done",
+      "project": "Project",
+      "label": "Label"
+    }
+  }
+}
